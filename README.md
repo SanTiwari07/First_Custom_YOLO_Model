@@ -373,7 +373,7 @@ import cv2
 from ultralytics import YOLO
 
 # Load model
-model = YOLO('best.pt')
+model = YOLO('my_model.pt')
 
 # Process video stream
 cap = cv2.VideoCapture(0)
