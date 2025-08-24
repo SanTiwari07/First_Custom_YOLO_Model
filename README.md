@@ -187,26 +187,7 @@ Validation ensures:
 ---
 # 🔧 Custom YOLO Electronics Detection Model
 
-[![YOLO](https://img.shields.io/badge/YOLO-v8-blue.svg)](https://github.com/ultralytics/ultralytics)
-[![mAP](https://img.shields.io/badge/mAP@0.5-83.8%25-green.svg)](README.md)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 A specialized YOLO model trained to detect and classify common electronics components used in Arduino and IoT projects. This model achieves **83.8% mAP@0.5** and can accurately identify 6 different electronic components in real-time.
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Detected Components](#detected-components)
-- [Performance Metrics](#performance-metrics)
-- [Quick Start](#quick-start)
-- [Training Process](#training-process)
-- [Model Architecture](#model-architecture)
-- [Results Analysis](#results-analysis)
-- [Applications](#applications)
-- [Installation & Usage](#installation--usage)
-- [Contributing](#contributing)
-- [Credits](#credits)
 
 ## 🎯 Overview
 
