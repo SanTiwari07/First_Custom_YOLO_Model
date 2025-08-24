@@ -1,9 +1,4 @@
-# YOLO Model Training - Step by Step Explanation
-
-This README explains what happens during the process of training a custom YOLO (You Only Look Once) model. Instead of going line by line through the notebook, this will give you a clear **conceptual flow** of what is happening.
-
----
-
+# YOLO Model Training
 ## 1. **Dataset Preparation**
 
 * **Photos → Annotations**: First, we collect images and label the objects in them (bounding boxes + class labels). This produces `.txt` annotation files where each line describes:
@@ -76,5 +71,3 @@ Finally, the child (model) can identify fruits in completely new photos!
 ✅ That’s how YOLO training works in simple words.
 
 ---
-
-Would you like me to also add **example commands** (like `!yolo train ...`) at the end of this README so it looks like a complete practical guide too?
