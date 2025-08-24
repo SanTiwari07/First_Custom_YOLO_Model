@@ -329,12 +329,4 @@ Special thanks to **EdjeElectronics** for providing an excellent step-by-step gu
 
 ---
 
-**Custom Electronics Detection Model** - Trained specifically for Arduino and IoT component identification with 83.8% mAP@0.5 accuracy across 6 component classes.
-# Credits & Resources
-
-This project was trained and inspired using the following resource:
-
-- [YOLO Training Notebook by EdjeElectronics](https://colab.research.google.com/github/EdjeElectronics/Train-and-Deploy-YOLO-Models/blob/main/Train_YOLO_Models.ipynb#scrollTo=IcoBAeHXa86W)
-
-Special thanks to **EdjeElectronics** for providing an excellent step-by-step guide for training and deploying YOLO models.
 
